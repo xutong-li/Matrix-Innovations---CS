@@ -1,6 +1,3 @@
-# Matrix-Innovations-CS
-Matrix Innovations Computer Science Team
-
 # Matrix-Innovations Computer Science Team Project
 
 We’re gonna be using open HEP3 access into the building out the best chop bar in the world. Our goal is to rival IBM’s Watson, Alexa and the Siri’s of the world however, in order to do that we need to be able to create a door edge motor. To do this we need to be able to organize the user in different buckets by attributes such as wealth, age, job, single, married etc. Other factors can come into play such as credit, assets, liabilities, equity, and many more. For this week’s task students have been put together into a group and will create an open source code via open air, credentials will be provided via our discord chat.
